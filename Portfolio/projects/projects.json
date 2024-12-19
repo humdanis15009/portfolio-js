@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Nikah Junction",
+    "desc": "A user-focused Muslim matrimony platform that connects potential matches through direct communication and personal assistance, streamlining the matchmaking process with essential registration and verification steps, using React.js, Tailwind CSS, Framer Motion, Firebase (authentication and Firestore), and Cashfree for payment integration.",
+    "image": "project1",
+    "category": "android",
+    "links": {
+      "view": "https://nikahjunction.netlify.app/",
+      "code": "https://github.com/humdanis15009/nikah-junction"
+    }
+  },
+  {
+    "name": "Rest Countries API",
+    "desc": "All in one SPPU Engineering resources. Built using Java, XML and Firebase.",
+    "image": "sppuprepandroid",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/sppu-prep-android"
+    }
+  },
+
+  {
+    "name": "Quiz App",
+    "desc": "A dynamic and interactive quiz app built with HTML, CSS, and JavaScript that allows users to answer multiple-choice questions, view their score.",
+    "image": "quiz",
+    "category": "basicweb",
+    "links": {
+      "view": "https://humdanis15009.github.io/quiz/",
+      "code": "https://github.com/humdanis15009/quiz"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/humdanis15009/Portfolio-Website"
+    }
+  },
+  {
+    "name": "The Shoe Company",
+    "desc": "Shoe company website UI madeusind using tailwind css while making it fully responsive on smaller as well as medium screens.",
+    "image": "bootstrapportfolio",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "North Burgers",
+    "desc": "Basic food website landing page built using HTML, CSS and JavaScript.",
+    "image": "foodicious",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
